@@ -17,4 +17,5 @@ which is then assembled into a GET string and sent to Weather Underground.
 
 The secrets.txt contains the authentication data for WU.  Put your own information in this file.
    
-   
+The end result can be seen at:
+  https://www.wunderground.com/personal-weather-station/dashboard?ID=KFLWILDW69   
