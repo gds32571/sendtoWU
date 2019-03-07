@@ -12,7 +12,7 @@ values, keeps track of the "freshness" of the data and uploads good data to the 
 website.
    
 A second program, wu_post-v2.pl is a Perl prorgam I wrote several years ago to run on a Linux 
-machine. It read data from a file on disk as a source of data.  I modified it to take input from STDIN 
+machine. It reads data from a file on disk as a source of data.  I modified it to take input from STDIN 
 which is then assembled into a GET string and sent to Weather Underground.
 
 The secrets.txt contains the authentication data for WU.  Put your own information in this file.
