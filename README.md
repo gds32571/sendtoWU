@@ -1,6 +1,6 @@
 # sendtoWU
 
-A pair of programs to collect data from an MQTT server and upload them to Weather Underground.
+A pair of programs to collect data from an MQTT server and upload it to Weather Underground.
 
 One of the Raspberry Pi computers here runs a program to read acurite weather data from 
 an RTL-SDR radio dongle. The data is transmitted as JSON formatted data which is used by 
